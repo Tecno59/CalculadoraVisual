@@ -1,3 +1,6 @@
+## Captura de pantalla
+![Calculadora](screenshots/calculadora.png)
+
 # Calculadora Visual
 
 Calculadora desarrollada en java utilizando Swing y Apache NeatBeans.
