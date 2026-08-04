@@ -2,7 +2,7 @@
 
 Calculadora desarrollada en java utilizando Swing y Apache NeatBeans.
 
-##Caracteristicas
+## Caracteristicas
 
 -Interfaz grafica
 -Suma
